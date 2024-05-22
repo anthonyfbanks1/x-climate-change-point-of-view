@@ -10,6 +10,8 @@ What does X activity look like before and after a major natural disaster?
 
 Project Structure
 You can find the main script for this project in the root folder called "Final_Project.ipynb", along with the presentations slides called "Final_Project_Slides.pptx". You can also find each group members' individual code in the Individual_Contributors folder. Each question was approached by a different team member as listed below:
+
+
 Question 1 - Anthony Banks
 Question 2 - Anthony Banks
 Question 3 - Anthony Banks
