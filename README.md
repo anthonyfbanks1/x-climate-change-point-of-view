@@ -1,4 +1,5 @@
 x-climate-change-point-of-view
+
 The purpose of our project was to analyze climate change point of view through X user post data, primarily focusing on US-based users and users who deny the existence of climate change, to see what patterns we could find.
 
 Initial Research Questions: What trends, if any, are present in climate related tweets? Has the stance, sentiment, or aggression of Tweets changed significantly in the 2010s?
