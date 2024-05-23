@@ -9,12 +9,7 @@ What trends might we uncover by isolating the tweets denying climate change? Are
 What does X activity look like before and after a major natural disaster?
 
 Project Structure
-You can find the main script for this project in the root folder called "Final_Project.ipynb", along with the presentations slides called "Final_Project_Slides.pptx". You can also find each group members' individual code in the Individual_Contributors folder. Each question was approached by a different team member as listed below:
-
-
-Question 1 - Anthony Banks
-Question 2 - Anthony Banks
-Question 3 - Anthony Banks
+You can find the main script for this project in the root folder called "Final_Project.ipynb", along with the presentations slides called "Final_Project_Slides.pptx". 
 
 Raw data resources can be found in the Resources folder, and in the subfolder "sample_cut_references" we have included some of the .py files used to cut the original dataframe down to usable pieces. These won't function since they are referencing the original 2GB file not included on GitHub due to filesize constraints but are included for context only. You can also find the individual data visualizations in the Images folder.
 
